@@ -1,0 +1,11 @@
+body
+        {
+         background-image:url(fundosally.png);
+           
+         color:#FFB5C5;
+         } 
+div.um {
+ width: 100%;
+ background:transparent white;
+ margin-bottom:60px;
+ }
